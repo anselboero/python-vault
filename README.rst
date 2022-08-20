@@ -1,5 +1,5 @@
 ===========================================
-Python-Vault - The Vault SDK for Python
+Python-Vault - The Veeva Vault SDK for Python
 ===========================================
 
 
